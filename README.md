@@ -73,9 +73,9 @@
 
 ## 📫 Контакты
 
-- **Email:** kolek.vip84@gmail.com
-- **Telegram:** [@NikLyashenko](https://t.me/NikLyashenko)
-- **Discord:** kolya_22
+- 📧 **Email:** [kolek.vip84@gmail.com](mailto:kolek.vip84@gmail.com)
+- 💬 **Telegram:** [@NikLyashenko](https://t.me/NikLyashenko)
+- 🎮 **Discord:** kolya_22
 
 ---
 
