@@ -12,32 +12,33 @@
 ## 🛠️ Skills
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VSCode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="36" height="36" alt="Scikit-learn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36" alt="Numpy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker"/>
 </p>
 
 ## 🌐 Socials
 
 <p align="left">
   <a href="https://discord.com/users/kolya_22" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="32" height="32" alt="Discord" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="32" height="32" alt="Discord" />
   </a>
   <a href="https://github.com/Dark1Loki" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub" />
   </a>
-  <a href="http://www.instagram.com/nik.lyashenko" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32" height="32" alt="Instagram" />
+  <a href="https://www.instagram.com/nik.lyashenko" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" width="32" height="32" alt="Instagram"/>
   </a>
   <a href="https://t.me/NikLyashenko" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/telegram.svg" width="32" height="32" alt="Telegram" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/telegram.svg" width="32" height="32" alt="Telegram"/>
   </a>
 </p>
+
 
 ---
 
@@ -80,7 +81,7 @@
 
 ## 📫 Контакты
 
-- **Email:** kolekvip84@gmail.com
+- **Email:** kolek.vip84@gmail.com
 - **Telegram:** [@NikLyashenko](https://t.me/NikLyashenko)
 - **Discord:** kolya_22
 
