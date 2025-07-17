@@ -24,20 +24,10 @@
 
 ## 🌐 Socials
 
-<p align="left">
-  <a href="https://discord.com/users/kolya_22" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="32" height="32" alt="Discord"/>
-  </a>
-  <a href="https://github.com/Dark1Loki" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="32" height="32" alt="GitHub"/>
-  </a>
-  <a href="https://www.instagram.com/nik.lyashenko" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="32" height="32" alt="Instagram"/>
-  </a>
-  <a href="https://t.me/NikLyashenko" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="32" height="32" alt="Telegram"/>
-  </a>
-</p>
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kolya_22)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dark1Loki)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nik.lyashenko)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NikLyashenko)
 
 ---
 
