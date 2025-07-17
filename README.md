@@ -44,11 +44,39 @@
 
 ---
 
-## 🌟 Основные проекты
+## 📌 Мои ключевые проекты
 
-- [**Telegram Basketball Rules Bot**](https://github.com/Dark1Loki/telegram-basketball-bot) - Jupyter/Colab-ноутбук: Telegram-бот на ML для ответов на вопросы о правилах баскетбола (OpenAI API, aiogram, Colab, русский язык, обработка базы знаний через эмбеддинги).
-- [**calculator-cli**](https://github.com/Dark1Loki/calculator-cli) - Удобный CLI-калькулятор с историей вычислений, поддержкой float, повторным использованием результата и командой `history`.
-- [**quiz-bot-ai**](https://github.com/Dark1Loki/quiz-bot-ai) - Телеграм-бот-викторина на Python/aiogram3 с генерацией ответов через OpenAI, поддержкой БД и функционалом для обучения и игр.
+### [Telegram Bot: Basketball Rules](https://github.com/Dark1Loki/telegram-basketball-bot)
+
+> Jupyter/Colab-ноутбук. Телеграм-бот, который отвечает на вопросы по правилам баскетбола с помощью базы знаний и OpenAI API.
+
+* **Стек**: Python, aiogram, OpenAI API, Pandas, Google Colab, Wikipedia API
+* **Что сделал**:
+  • Импортировал и обработал знания из Wikipedia
+  • Реализовал поиск по embedding (semantic search)
+  • Интегрировал перевод, обработку запроса и генерацию осмысленного ответа
+  • Выложил инструкцию для запуска в Colab
+
+### [CLI Calculator](https://github.com/Dark1Loki/calculator-cli)
+
+> Удобный калькулятор для терминала с поддержкой float, истории вычислений, многоразовых операций, help/history-команд.
+
+* **Стек**: Python, CLI
+* **Что сделал**:
+  • Реализовал парсер команд и историю вычислений
+  • Поддержка многоразовых вычислений (результат как первый аргумент)
+  • Оформил инструкции, .gitignore и пример работы
+
+### [Quiz Bot YDB](https://github.com/Dark1Loki/quiz-bot-YDB)
+
+> Telegram-бот-викторина, работающий на серверлессе и Yandex.Cloud.
+
+* **Стек**: Python, aiogram, Yandex Cloud Functions, YDB, API Gateway
+* **Что сделал**:
+  • Интеграция с Yandex.Cloud (serverless)
+  • Хранение и подсчёт баллов
+  • Рандомизация вопросов, сохранение статистики
+  • Деплой через GitHub
 
 ---
 
