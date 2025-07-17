@@ -26,16 +26,16 @@
 
 <p align="left">
   <a href="https://discord.com/users/kolya_22" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="32" height="32" alt="Discord" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="32" height="32" alt="Discord"/>
   </a>
   <a href="https://github.com/Dark1Loki" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="32" height="32" alt="GitHub"/>
   </a>
   <a href="https://www.instagram.com/nik.lyashenko" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" width="32" height="32" alt="Instagram"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="32" height="32" alt="Instagram"/>
   </a>
   <a href="https://t.me/NikLyashenko" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/telegram.svg" width="32" height="32" alt="Telegram"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="32" height="32" alt="Telegram"/>
   </a>
 </p>
 
